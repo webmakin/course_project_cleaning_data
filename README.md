@@ -3,9 +3,9 @@
 ## How to run
 
 ### Files
-run_analysis.R - data retrieval and cleaning script
-tidydataset.txt - result dataset after running the script
-codebooks.md - description of output data
+1. run_analysis.R - data retrieval and cleaning script
+2. tidydataset.txt - result dataset after running the script
+3. codebooks.md - description of output data
 
 ### Steps
 1. Open the project in R studio and source the run_analysis.R file
